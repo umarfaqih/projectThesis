@@ -1,0 +1,300 @@
+No,Nama,JK,RB1,RB2,RB3,K1,K2,K3,Jurusan
+1,Afrelya Amara ,P,82,79,78,78,75,81,Jaringan
+2,Agris Dekar Saputra,L,76,77,78,75,76,78,Backend
+3,Aji Saputra,L,80,78,70,77,78,76,Jaringan
+4,Akbar maulana,L,86,80,77,78,79,78,Jaringan
+5,Al Diksha Alfiansyah,L,83,77,78,77,78,80,Jaringan
+6,Alvino Timothy,L,86,76,77,78,78,75,Jaringan
+7,Amalya Chaerunisa,P,76,78,77,77,78,75,Desain Grafis
+8,Ambrita Reza,L,79,77,77,78,79,75,Jaringan
+9,Amelia  Zahrina ,P,80,77,77,77,78,86,Backend
+10,Arya Fadillah,L,76,77,78,77,78,77,Desain Grafis & Backend
+11,Denia Syifa,P,75,77,77,77,79,76,Desain Grafis
+12,Derby Sriwindari ,P,75,77,77,77,78,80,Backend
+13,Faisal Ibrahim ,L,86,78,77,78,79,81,Jaringan
+14,Faridz Damar Arraya,L,77,78,78,77,79,80,Backend
+15,Hiki Anggara,L,76,77,88,77,78,79,Backend
+16,Ifrar ,L,80,78,77,77,78,78,Jaringan
+17,Imanuel Halim,L,81,77,79,78,80,81,Backend
+18,Irfan Vanesya  ,L,80,78,91,88,79,80,Backend
+19,M. Herdiyansyah ,L,80,77,90,77,79,78,Backend
+20,M. Jaki Firman,L,78,78,79,79,78,85,Backend
+21,Monica Ayu Lestari,P,81,77,79,91,79,78,Jaringan
+22,Muhamad Danu Nur Muslim,L,80,77,82,90,78,78,Jaringan
+23,Muhamad Irsan Nurhakim,L,78,77,82,79,79,76,Backend
+24,Muhammad Denny ,L,85,77,79,79,79,84,Jaringan
+25,Muhammad Ilham Apriliyansyah,L,78,78,77,82,78,75,Jaringan
+26,Muhammad Mubdi Farhan,L,78,77,77,82,78,81,Jaringan
+27,Muhammad Ridho Alamsyah,L,76,77,91,79,79,76,Backend
+28,Muhammad Rifai Romadhon,L,84,77,77,77,78,80,Jaringan
+29,Muhammad Rivaldy ,L,75,78,78,77,79,86,Backend
+30,Muhammad Rizky Fadillah ,L,81,88,80,91,78,83,Jaringan
+31,Mutiara Akhasya ,P,76,77,90,77,80,76,Backend
+32,Nabila Dwi Lestari,P,81,79,82,78,80,76,Jaringan & Desain Grafis
+33,Nasya Afifah,P,86,91,86,80,83,78,Desain Grafis
+34,Panji Saputra,L,83,90,81,90,80,80,Jaringan
+35,Pramudya Hari,L,76,79,88,82,80,75,Backend
+36,Rayhani Siva Fauzia,P,76,79,78,86,81,75,Jaringan
+37,Siti Bunga Lestari,P,78,82,79,81,81,75,Desain Grafis
+38,Agni Puteri Anjani,P,80,82,90,88,81,86,Backend
+39,Andrian Firdaus ,L,75,79,79,78,80,77,Desain Grafis
+40,Anton Damea Ileweking,L,75,77,79,79,81,76,Desain Grafis
+41,Ardi Pratama,L,75,77,78,90,80,80,Jaringan
+42,Ayu Lestari Qoriah Syachputri,P,86,91,87,79,80,81,Desain Grafis
+43,Khairul Anam,L,78,77,78,79,81,80,Desain Grafis & Backend
+44,Lusty Bathara Pohon ,P,76,78,80,78,80,79,Backend
+45,Moh. Zeidul Rizki,L,80,80,81,87,82,78,Jaringan
+46,Muhamad Tohir,L,81,90,81,78,80,81,Desain Grafis
+47,Muhammad Azis,L,80,82,81,80,80,80,Desain Grafis
+48,Muhammad Hendiyansyah,L,79,86,80,81,77,78,Desain Grafis
+49,Muhammad Raja Pratama ,L,78,81,82,81,77,85,Backend
+50,Muhammad Rayhan Ramadhana,L,81,88,81,81,77,78,Desain Grafis
+51,Muhammad Zein ,L,80,78,80,80,79,78,Jaringan
+52,Muhammad Zidan Jaka Raga,L,79,79,80,82,77,76,Desain Grafis & Backend
+53,Nayla Ardina Putri ,P,86,90,80,81,76,84,Jaringan
+54,Sandi Ramadhan,L,78,79,80,80,77,75,Jaringan
+55,Siti Nurkhalifah ,P,78,79,80,80,77,79,Backend
+56,Sufyan Iksan Khairan,L,76,78,81,80,77,78,Backend
+57,Thrianti Shundari ,P,85,87,80,80,77,79,Jaringan
+58,Velycia Vega ,P,76,78,80,80,77,78,Backend
+59,Adam Khalik ,L,79,80,81,81,77,78,Jaringan
+60,Armando Gonzales ,L,79,81,80,80,78,78,Jaringan & Desain Grafis
+61,Cahyatu Nufus,P,79,81,81,80,77,79,Backend
+62,Daniel ,L,79,81,80,81,77,78,Desain Grafis & Backend
+63,Deni Irawan,L,79,80,80,80,77,78,Jaringan
+64,Dilla Aulia,P,79,82,81,81,77,79,Jaringan & Backend
+65,Eris Tiani,P,85,81,80,80,78,78,Jaringan
+66,Fahrel Saputra Maresta,L,78,80,82,80,77,79,Backend
+67,Indiarti Kurnia,P,82,80,80,81,78,79,Jaringan
+68,Intan Fitriyani,P,79,80,80,80,77,78,Jaringan
+69,Irefa Azhira R ,P,78,80,77,82,77,78,Jaringan
+70,Irvan Nur Wahyudi,L,79,80,77,80,76,80,Jaringan
+71,Kevin Ng,L,79,81,77,80,77,79,Jaringan
+72,Mohamad Hawgri Yansyah,L,79,80,79,77,78,79,Desain Grafis & Backend
+73,Muhamad Faisal ,L,81,80,77,77,77,78,Jaringan
+74,Muhamad Teguh Wicaksono,L,80,81,76,77,77,79,Desain Grafis
+75,Muhammad Dias Naraya,L,79,80,77,79,77,78,Jaringan
+76,Muhammad Zidan Pratama,L,83,81,77,77,76,79,Jaringan
+77,Nadia Maulana Putri,P,78,80,77,76,82,79,Desain Grafis
+78,Nurbaiti,P,79,80,77,77,80,78,Desain Grafis
+79,Ozan Firmansyah,L,81,81,77,77,80,78,Desain Grafis
+80,Putri Wijaya,P,82,80,77,77,85,79,Desain Grafis
+81,Reslina Destriana,P,83,82,78,77,85,78,Desain Grafis
+82,Reva Cahya Fabilla,P,78,80,77,77,80,79,Desain Grafis
+83,Rifky Damafar,L,79,80,77,77,80,78,Desain Grafis
+84,Shizuka Febri Indosuryanti,P,81,77,77,78,82,80,Jaringan & Desain Grafis
+85,Soni Akbari,L,78,77,77,77,85,80,Desain Grafis
+86,Vinchentius Arya Pradipta,L,79,77,78,77,80,83,Backend
+87,Wulan Surya ,P,78,79,77,77,82,83,Desain Grafis
+88,Adelliya Septiyani,P,80,77,78,77,83,88,Backend
+89,Aditia Hermawan,L,80,76,77,78,80,90,Backend
+90,Auriel Arya Pratama,L,83,77,78,77,80,80,Jaringan
+91,Brian Kairo Jibrilliano,L,83,77,76,78,82,80,Jaringan
+92,Debi Mauliah,P,88,77,77,77,85,83,Jaringan
+93,Fikhri Maulana,L,90,77,78,77,80,80,Jaringan
+94,Hatta Ryas Hadi ,L,80,77,77,76,82,80,Desain Grafis
+95,Hengki Wijaya,L,81,77,77,77,78,80,Jaringan
+96,Lisa Aprilia ,P,83,78,77,78,77,90,Backend
+97,Miftahul Khoir,L,80,77,76,77,78,76,Jaringan
+98,Muahmmad Haerudin Bakri ,L,80,79,77,77,77,77,Jaringan
+99,Muhammad Rivai,L,80,78,77,77,77,77,Jaringan
+100,Muthiya Rahmah Danny ,P,90,77,77,76,80,77,Jaringan
+101,Nia Selvia,P,80,78,77,82,77,77,Jaringan
+102,Nurdin Irfan,L,83,77,77,80,78,77,Jaringan
+103,Riska  Amanda Revani,P,83,78,77,76,77,77,Jaringan
+104,Ridwan Fadhilah,L,80,77,78,80,77,78,Jaringan
+105,Rifki Maulana Yusuf ,L,82,78,77,81,77,77,Jaringan
+106,Rina Saputri,P,80,76,78,80,76,77,Jaringan
+107,Riska Amanda Rivani,L,80,77,77,79,81,77,Jaringan
+108,Rita  Aprilianti,P,85,78,79,78,76,77,Jaringan
+109,Sayidah Falakhiyah ,P,81,77,78,81,80,78,Jaringan
+110,Siti Nurhasanah,P,80,77,77,84,86,77,Jaringan
+111,Slamet Dwi Ramadhani,L,81,77,78,78,83,78,Desain Grafis
+112,Syahadah Langit Ramadhan,P,80,76,77,85,76,77,Jaringan
+113,Syifa Rambati,P,81,82,77,78,76,77,Jaringan
+114,Tika Ulansari,L,80,81,76,78,78,76,Desain Grafis
+115,Vico,L,80,82,77,76,80,77,Desain Grafis
+116,Yoan Yohana,P,80,80,78,84,75,78,Jaringan
+117,Zeidan Ramadhan,L,77,81,77,75,75,77,Desain Grafis
+118,Aldi Setiawan,L,77,80,77,79,75,77,Jaringan
+119,Alfira Rizki Azalia,L,77,79,77,78,86,77,Desain Grafis
+120,Andika Ahmad Rivaldi,L,79,78,76,79,77,76,Jaringan
+121,Anisa Almavira,P,77,81,82,78,76,82,Backend
+122,Dera Dwi Ramadhan,L,76,84,80,78,80,80,Desain Grafis
+123,Desvira Maharani,P,77,78,76,78,81,76,Desain Grafis
+124,Deswita Putri Anggraeni,P,77,85,80,79,80,80,Desain Grafis
+125,Dina Maulida,P,77,78,81,78,79,81,Backend
+126,Divani Aurora,P,77,78,80,78,78,80,Backend
+127,Eka Putri Ramadhani,P,77,76,79,79,81,79,Backend
+128,Erwin ,L,81,84,77,78,80,78,Desain Grafis
+129,Fauzan Arif,L,78,75,77,79,77,81,Backend
+130,Harlan Heriansyah,L,77,79,77,79,79,70,Desain Grafis
+131,Husni Al - Mubarak ,L,77,78,77,78,79,80,Desain Grafis & Backend
+132,Irda Maya,L,77,79,77,78,77,90,Backend
+133,Lavina Talihta Zerlina ,P,77,78,77,80,76,80,Jaringan & Backend
+134,Lisa Yuliana,L,78,78,78,79,77,83,Backend
+135,Madaniah,P,77,78,77,79,77,83,Backend
+136,Maharani Oktavia,P,79,81,77,78,77,80,Jaringan & Backend
+137,Mona Patricia,P,77,78,70,79,77,82,Jaringan
+138,Muhammad Ardiansyah Al Murtado,L,81,78,77,78,77,80,Jaringan
+139,Muhammad Nazar Ilham,L,76,79,78,79,77,80,Backend
+140,Muhammad Rangga Putra Suwandy,L,78,81,77,79,78,85,Backend
+141,Muhammad Ridwan ,L,78,83,78,78,77,81,Desain Grafis
+142,Muhammad Yusuf,L,77,79,77,78,77,80,Backend
+143,Mukriyansyah,L,77,78,77,79,77,81,Backend
+144,Nabila Rahmawati,L,77,79,76,78,77,80,Desain Grafis & Backend
+145,Nafisa Dwi Agna Sagoro,P,76,80,77,79,78,80,Desain Grafis
+146,Nur Hafidzah,L,81,79,78,78,77,80,Jaringan
+147,Nurul Septiarahma,P,81,79,77,80,78,80,Desain Grafis & Backend
+148,Rafles Wijaya ,L,80,78,77,80,77,80,Jaringan
+149,Rara Almahera,P,86,79,77,83,77,77,Jaringan
+150,Salsabila. R,P,83,78,76,84,76,77,Jaringan
+151,Widya Ayu Lestari ,P,76,75,81,80,77,77,Backend
+152,Widya Rinjani,P,76,79,76,78,78,79,Desain Grafis
+153,Wildan Nasution,L,78,75,80,77,80,77,Jaringan & Desain Grafis
+154,Yuana Rianti ,P,80,78,77,77,77,76,Jaringan
+155,Achmad Fadli Ramdhani,L,75,79,77,77,77,81,Backend
+156,Adam Iskandar,L,75,78,76,77,76,80,Backend
+157,Adinda Al Putri ,P,75,79,82,78,77,80,Backend
+158,Anisa Zikri ,P,86,78,80,77,77,81,Jaringan
+159,Annisa Lestari,P,77,80,76,77,77,80,Desain Grafis
+160,Atiatus Soliha,P,76,80,80,77,77,82,Backend
+161,Bunga Salsa Mad ,P,80,83,81,78,77,80,Backend
+162,Cika Putri Anggraeni ,P,81,80,80,88,77,80,Jaringan
+163,Danang Rizqi,L,80,80,79,77,78,77,Desain Grafis
+164,Dino Ramadani,L,82,81,78,79,77,77,Jaringan
+165,Dita Nur Azizah Umar,P,78,81,82,91,77,84,Jaringan
+166,Diva Valensia Gunawan,P,81,81,84,90,77,79,Jaringan
+167,Drian Okshananda ,P,84,80,78,79,77,77,Jaringan
+168,Ega Septian Wijaya,L,78,81,85,79,78,76,Backend
+169,Febriyanti ,P,85,80,78,82,77,77,Jaringan
+170,Gadis  Lusyiani ,P,78,80,78,82,78,77,Jaringan
+171,Geraldi Pasha ,L,78,81,76,79,77,77,Desain Grafis
+172,Iskana Yulianti Sufadar,L,76,80,84,77,77,77,Backend
+173,M. Faruq Tri Putro ,L,84,82,75,77,76,77,Jaringan
+174,Muhamad Taufik Ilham,L,75,80,79,91,77,77,Jaringan
+175,Muhammad Apriansha,L,81,80,78,77,78,78,Jaringan & Desain Grafis
+176,Muhammad Rizal ,L,86,77,79,78,77,77,Jaringan
+177,Muhammad Sahrul Alfarizi,,79,77,78,80,77,77,Jaringan
+178,Muhammada Tezar Rizky,L,78,77,78,90,77,77,Jaringan
+179,Nilam Vivi Wulandari,P,81,79,78,82,76,77,Desain Grafis & Backend
+180,Rafly Mulia Saputra ,L,78,77,79,86,82,78,Jaringan
+181,Rama  Hartana ,L,79,76,78,81,80,77,Jaringan
+182,Raya Saputra ,L,80,77,78,88,76,78,Jaringan
+183,Reiva Meisya Aulia ,P,78,77,79,78,80,77,Jaringan & Backend
+184,Reval Al Zidan,L,81,77,78,79,81,77,Jaringan
+185,Ririn Indriyani,P,78,77,79,90,80,76,Jaringan
+186,Ruben Riyano,L,76,77,79,79,79,77,Desain Grafis & Backend
+187,Tarisha Andiha ,P,79,77,78,79,77,78,Jaringan
+188,Thomas Adhi,L,78,81,78,78,77,77,Desain Grafis
+189,Vina Puspa Sari,P,78,77,80,87,77,77,Jaringan
+190,Zahra Neila Putri,L,80,77,79,78,77,77,Jaringan
+191,Abada Hamka Andika,L,79,77,79,80,77,76,Jaringan
+192,Adam Dwi Putera,L,81,77,78,81,77,82,Jaringan
+193,Ari Mahardika ,L,82,78,79,81,78,80,Jaringan
+194,Azriva Shelia Adisty P,L,79,77,76,81,77,80,Jaringan
+195,Bagas Hamdallah,L,78,78,83,80,79,85,Backend
+196,Bayu Dwi Ananta,L,79,77,80,82,78,85,Backend
+197,Dewi Safitri,P,83,77,80,81,80,80,Jaringan
+198,Dimas Riandi,L,78,76,81,80,80,80,Backend
+199,Dimas Rizki ,L,78,77,81,80,83,82,Backend
+200,Febia Ananda,P,79,78,81,80,80,85,Backend
+201,Ibra Pasha Perdiansyah,L,79,77,80,80,80,78,Jaringan
+202,Irwan Adriansyah,L,81,77,81,80,81,78,Jaringan
+203,Ishra Ahmad Prasetyo,L,78,77,80,81,81,80,Backend
+204,Lindah,P,80,76,80,80,81,79,Jaringan
+205,M. Fahrel Mahesuara,L,81,76,81,80,80,79,Jaringan
+206,Mohamad Obi Hermawan,L,83,80,80,81,82,78,Jaringan
+207,Muhamad Akbar Adriansyah,L,80,81,76,80,81,79,Desain Grafis
+208,Muhamad Faqih Agram Maulana,L,80,85,80,81,80,78,Desain Grafis
+209,Muhammad Ghilang ,L,81,85,80,80,80,79,Desain Grafis
+210,Muhdy Al Fariz,L,81,80,77,80,80,79,Jaringan
+211,Nuil Nur'aini,P,81,80,77,81,80,78,Jaringan
+212,Rafly Zuliyansyah,L,80,82,77,80,80,78,Desain Grafis
+213,Reza Ramadhan,L,82,85,79,82,81,79,Desain Grafis
+214,Reza Sudrajat,L,81,80,77,80,80,78,Jaringan
+215,Rhomi Riadi,L,80,82,76,80,80,79,Desain Grafis
+216,Riandy Pratama,L,80,83,77,77,81,78,Desain Grafis
+217,Rifky Ramdhan,L,81,80,77,77,80,80,Desain Grafis
+218,Riski Hidayat,L,81,80,77,77,82,80,Desain Grafis
+219,Rizky Dimas Awaludin,L,80,82,77,79,85,83,Desain Grafis
+220,Satria Ramadhan ,L,81,85,77,77,80,80,Desain Grafis
+221,Septo  Romadhoni ,L,80,80,77,76,82,80,Desain Grafis
+222,Siti Inayah,P,80,82,78,77,78,81,Desain Grafis
+223,Syifa Fauziah,P,81,78,79,77,77,81,Backend
+224,Tegar Febri Lianto,L,80,77,78,77,78,81,Backend
+225,Zidan Afan Saputra,L,81,78,81,77,77,80,Backend
+226,Adam Bintang Ramadhan,L,80,77,76,77,77,82,Backend
+227,Agus Prayogo,L,82,77,80,77,80,81,Backend
+228,Ahmad Aji Maolana,L,81,80,86,78,77,80,Backend
+229,Aldi Alfiansyah,L,80,77,83,80,78,81,Backend
+230,Amanda Afriyani,P,82,78,86,77,77,78,Backend
+231,Anisah ,P,80,77,76,77,77,79,Jaringan
+232,Billy Pratama Yoga,L,80,77,78,78,77,79,Jaringan
+234,Daniel Ibrahim,L,77,77,80,78,76,78,Backend
+235,Dede Rena Yandi,L,77,76,75,77,81,78,Desain Grafis
+236,Muhammad farid,L,77,81,75,78,76,79,Desain Grafis
+237,Dillah Siti Choiriyah,P,82,76,75,77,80,78,Jaringan
+238,Diva Indriyani,P,77,80,86,77,86,79,Desain Grafis
+239,Early Tama Hafiz soleh,L,76,86,77,76,83,78,Desain Grafis
+240,Fadel Abdallah,L,77,83,76,77,76,80,Desain Grafis
+241,Fannyssa Az-zahra,P,77,76,79,78,76,80,Backend
+242,Fitri Nurhaliza,P,81,76,78,77,78,83,Backend
+243,Fitriani,P,77,78,79,77,80,80,Backend
+244,Ibrahim Al Fatih,L,77,80,78,77,75,80,Backend
+245,Khessa,P,77,75,78,76,75,81,Backend
+246,Laura Lutfi Saputri,P,78,75,77,77,75,81,Backend
+247,Linda Anggraeni,P,77,75,78,77,86,81,Desain Grafis
+248,Lutfia Aminaturizqi,P,77,86,77,77,77,80,Desain Grafis
+249,Mahessa Pawagel,L,77,77,77,77,76,81,Backend
+250,Mita Nuraini,P,81,76,76,77,80,80,Desain Grafis & Backend
+251,Muhammad Devdan Yusnizar,L,78,80,77,78,81,80,Desain Grafis
+252,Muhammad Fadillah,L,77,81,78,78,80,81,Desain Grafis
+253,Muhammad Fadillah Ramadhani,L,78,80,77,77,79,80,Desain Grafis
+254,Muhammad Kaisal Virelial,L,77,79,77,77,78,82,Backend
+255,Muhammad Luthfi Ali,L,77,78,77,77,81,80,Desain Grafis
+256,Muhammad Maulana Zarkasih,L,76,81,76,77,80,80,Desain Grafis
+257,Muhammad Rifky Saputra,L,77,80,82,78,78,77,Backend
+258,Musanif AL Ayyubhi,L,78,78,80,77,85,77,Desain Grafis
+259,Nanuh Nurhapiat,L,77,85,80,78,78,77,Desain Grafis
+260,Nazar Rezar Anugrah,L,77,78,85,77,78,79,Backend
+261,Niken Yulisdah,P,80,78,85,77,76,77,Backend
+262,Sinta Amelia,P,76,76,80,76,84,76,Desain Grafis
+263,Rapik Awaludin,L,81,84,80,77,75,77,Desain Grafis
+264,Roby Aidul Mustofa,L,80,75,80,78,79,77,Jaringan
+265,shoffiyah,P,81,79,82,77,78,77,Backend
+266,Siti Nuraini,P,85,78,80,77,78,77,Jaringan
+267,Sarah Ramayani,P,83,79,81,77,78,77,Jaringan
+268,Surya Wijaya Kurniawan,L,78,79,80,76,78,77,Desain Grafis & Backend
+269,Winda Wulandari,P,80,78,85,82,80,78,Backend
+270,Wisnu Aditya Nugroho,L,80,78,80,80,75,77,Jaringan
+271,Achmad Asep Ninjili,L,82,79,80,76,75,77,Jaringan
+272,Ahmad Daud Fathoni,L,80,78,82,80,75,77,Jaringan
+273,Aji Santoso,L,80,81,78,81,86,77,Desain Grafis
+274,Aldi Agustin,L,80,76,78,80,77,78,Jaringan
+275,Aldo Chandra Winata,L,85,80,78,79,76,77,Jaringan
+276,Anis Laili Safitri,P,82,86,79,77,79,78,Desain Grafis
+277,Arif Rahman Hakim,L,80,83,78,77,78,77,Desain Grafis
+278,Arya Nuryadi,L,82,86,78,77,79,77,Desain Grafis
+279,Dewi Fitriyah,P,83,76,79,77,78,76,Jaringan
+280,Dina Manilla,P,82,78,78,77,78,77,Jaringan
+281,Edies Febriayana,P,80,80,79,77,77,78,Semua
+282,Evelyn Nevi Jovanka,P,80,75,79,78,78,77,Jaringan
+283,Fadilah Hanafiah,L,82,75,78,77,77,77,Jaringan
+284,Faiz fazri,L,80,75,78,77,77,77,Jaringan
+285,Fajar,L,82,86,80,77,76,76,Desain Grafis
+286,Haikal Abdul Rahman,L,83,77,79,77,77,82,Backend
+287,Intan Rahmadian,P,80,76,79,78,78,80,Backend
+288,Irgi Septia Rohmansyah,L,80,79,78,77,77,80,Backend
+289,Junika Sahfitry,P,82,78,79,78,77,85,Backend
+290,Khobirul Ikhsan Saputra,L,85,79,78,77,77,85,Backend
+291,Muhammad Arifin Ilham,L,80,78,79,77,76,80,Backend
+292,Miqdad Al Farizi,L,82,78,79,76,82,80,Desain Grafis
+293,Mohamad Arifin,L,81,78,78,77,80,82,Jaringan & Desain Grafis
+294,Muhammad Dany Septiyadi,L,80,79,78,78,80,85,Backend
+295,Muhammad Sultan Ahmad Yadi,L,80,78,79,77,85,80,Desain Grafis
+296,Mulya Aji,L,82,81,78,77,85,82,Desain Grafis
+297,Nazwa Cantika Bilqis,P,81,76,79,77,80,83,Backend
+298,Neni Ramdhaeni,P,80,81,75,76,80,80,Desain Grafis
+299,Nesya Khansa Nacita,P,82,86,80,81,80,80,Desain Grafis
+300,Ondy Darmawan,L,80,76,75,76,82,81,Jaringan & Backend
